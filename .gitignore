@@ -1,0 +1,5 @@
+.env
+/logs
+/.vs
+/.conda
+/__pycache__
